@@ -14,7 +14,7 @@ The purpose of this analysis was to find the differences in temperature between 
 3. The highest recoreded temperatures for both months are also very similar (June: 85F and December: 83F). This means there isn't much risk of it being too hot to surf.
 
 ## Summary
-Overall the difference in temperature between June and December is negligible. Oahu has about as stable a climate pattern as you would see anywhere in the world.  This makes it a perfect location to start a year round surf school.
+Overall the difference in temperature between June and December is negligible. Oahu has about as stable a climate pattern as you would see anywhere in the world.  This makes it a perfect location to start a year round surf shop.
 
 ### Further Analysis
 Further analysis using the provided data could look into the differences in precipitation between June and December.
